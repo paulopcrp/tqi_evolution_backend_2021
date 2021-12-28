@@ -2,4 +2,4 @@
 
 Projeto elaborado no bootcamp TQI.  Sistema para analise de empréstimos.
 
-Aprender java é um longo caminho.
+Aprender java é um longo caminho, mas devagar e sempre chegamos lá.
